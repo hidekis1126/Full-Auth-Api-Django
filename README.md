@@ -180,3 +180,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - **CORSの設定**：CORS（Cross-Origin Resource Sharing）の設定を行い、特定のオリジンからのリクエストを許可しています。
 
 - **ユーザーモデルの設定**：デフォルトのユーザーモデルとして UserAccount を指定しています。
+
+<!--Full-Auth-with-Nextjs ファイル名Full-Auth-Main と同じ環境-->
